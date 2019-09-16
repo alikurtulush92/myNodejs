@@ -1,0 +1,25 @@
+{
+  "name": "ali-kurtulush",
+  "version": "1.0.0",
+  "description": "'Trial for node.js packages'",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "try",
+    "package"
+  ],
+  "author": "Ali Kurtulush",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.7.1",
+    "nodemailer": "^6.3.0",
+    "simple-is": "^0.2.0"
+  },
+  "respository":{
+    "type":"git",
+    "url":"https://github.com/alikurtulush92/myNodejs.git"
+  }
+}
